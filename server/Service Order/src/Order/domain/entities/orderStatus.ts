@@ -1,0 +1,1 @@
+type OrderStatus = "pending" | "completed" | "declined"
